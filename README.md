@@ -1,3 +1,4 @@
+
 # Starktopia
 
 Starktopia is a turn-based strategy game inspired by Polytopia and Settlers of Catan. It features a hexagonal grid, resource management, strategic city customization, and dynamic player interactions.
@@ -42,6 +43,8 @@ Starktopia is a turn-based strategy game inspired by Polytopia and Settlers of C
     - Stored securely in your account or wallet.
     - Can be traded with other players outside of matches.
 
+## Art/White Board
+<iframe src="https://link.excalidraw.com/readonly/tdCF7c8RkL7yLEMiKxWW" width="100%" height="100%" style="border: none;"></iframe>
 ## Development Status
 
 All features and aspects of Starktopia are subject to change as development continues.
