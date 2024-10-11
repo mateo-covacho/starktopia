@@ -1,6 +1,6 @@
 
 # Starktopia
-![[./media/starktopia concept.png]]
+![[media/starktopia concept.png]]
 
 Starktopia is a turn-based strategy game inspired by Polytopia and Settlers of Catan. It features a hexagonal grid, resource management, strategic city customization,  dynamic player interactions and a tokenized persistent resources and cosmetics system 
 
